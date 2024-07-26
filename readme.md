@@ -4,7 +4,7 @@ nice for production
 ```
 # GUI nginx
 ```
-ini adalah GUI dari `NGINX`.
+ini adalah GUI dari *NGINX*.
 ```
 
 # manfaat menggunakan NPM
