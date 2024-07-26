@@ -3,7 +3,7 @@
 nice for production
 ```
 
-# syarat bisa menggunakan nginx
+# syarat bisa menggunakan NPM
 ```
 1. install docker
 2. pada device tersebut atau VM tersebut wajib memiliki ip public
